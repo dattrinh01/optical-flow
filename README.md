@@ -6,3 +6,11 @@
 
 Video test: https://drive.google.com/file/d/10xzBH3hG21_A4IeWZ1g3uI9jLxM-T-Ov/view?usp=sharing
 
+### Poblems need to be solved
+
+- [x] SIFT
+- [x] SURF
+- [ ] Harris Corner Detector
+- [ ] Shi-Tomasi Corner Detector 
+- [ ] Binary Robust Independent Elementary Features
+- [ ] FAST Algorithm 
