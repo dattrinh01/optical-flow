@@ -3,4 +3,6 @@
 
 ![image](https://user-images.githubusercontent.com/45755087/117583371-fdd3e100-b130-11eb-80dd-f939028ef0ca.png)
 
-![images](/img3.jpg)
+
+Video test: https://drive.google.com/file/d/10xzBH3hG21_A4IeWZ1g3uI9jLxM-T-Ov/view?usp=sharing
+
