@@ -1,4 +1,0 @@
-/home/dat/optical-flow/cpp/surf/build/CMakeFiles/rebuild_cache.dir
-/home/dat/optical-flow/cpp/surf/build/CMakeFiles/edit_cache.dir
-/home/dat/optical-flow/cpp/surf/build/CMakeFiles/detect_vid.dir
-/home/dat/optical-flow/cpp/surf/build/CMakeFiles/detect_img.dir

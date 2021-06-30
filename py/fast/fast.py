@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import time
 
-cap = cv2.VideoCapture("/home/dat/optical-flow/data2.mp4")
+cap = cv2.VideoCapture("/home/dat/data2.mp4")
 prev_frame_time, new_frame_time = 0,0
 
 while (cap.isOpened()):
